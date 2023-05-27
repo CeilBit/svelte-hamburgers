@@ -56,7 +56,7 @@
     &::after {
         width: var(--layer-width, 30px);
         height: var(--layer-height, 4px);
-        background-color: var(--color, black);
+        background-image: var(--color, black);
         border-radius: var(--border-radius, 4px);
         position: absolute;
         transition-property: transform;
