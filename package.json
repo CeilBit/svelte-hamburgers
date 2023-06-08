@@ -1,6 +1,6 @@
 {
-  "name": "svelte-hamburgers",
-  "version": "4.0.1",
+  "name": "ceilbit-hamburgers",
+  "version": "4.0.4",
   "license": "MIT",
   "type": "module",
   "scripts": {
